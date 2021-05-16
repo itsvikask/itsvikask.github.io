@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Project 5",
+        "description": "Find out the performance of Deals via various metrics. List out parts which are having issues, not priced and address those issues. Help out the team by taking into account historical part number response rate against current performance and coming up with list of parts to be fixed.",
+        "tech" : "Standalone application built on top of Java Spring Boot using Angular 9 as Front-end. Deployed in Pivotal Cloud Foundry. Uses SQL Server as DB and also interacts with Teradata."
+    },
+    {
+        "title": "Project 4",
+        "description": "Application to help Deal Desk team price the parts and generate the right deal to the customers. A complex pricing strategy is involved which takes into account a lot of factors and prices the parts accordingly.",
+        "tech": "Follows micro service architecture with multiple services running on Java Spring Boot hosted in Pivotal Cloud Foundry. Uses services provided by Cloud Foundry for Service Registry, Discovery and config server. Web Application interacts with all these microservices which is built using Spring Boot and Angular 8."
+    },
+    {
+        "title": "Project 3",
+        "description": "The application provides all the information and analytical insights of the Time Inc brands and offers self-service interactive reports to sales users. Application mainly aims at providing various kinds of reports in graphical representation or with export functionality in the form of Excel and PDF.",
+        "tech": "Standalone application using Spring MVC built using legacy way of JSP, JavaScript, JQuery etc. Hosted on AWS."
+    },
+    {
+        "title": "Project 2",
+        "description": "Portal provides a set of APIs to MVNOs allowing them access to provision and provide customer care to their customers. In addition it also provides administrative interface for MVNO User Access Controls.",
+        "tech": "Angular JS application with Java backend hosted on VM."
+    },
+    {
+        "title": "Project 1",
+        "description": "Project aimed to develop a Business to Business Portal to a world leader in Telecommunications which eases the interaction with the Business partners and to provide easy access to the Partners. This project was considered one of the most critical projects for the clients as they rely on this portal to manage the Business to Business Communications and transactions.",
+        "tech": "Content Management System (CMS) using Oracle Webcenter sites. This tool had it's own syntax driven by JSP."
+    }
+]
