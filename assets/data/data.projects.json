@@ -2,12 +2,12 @@
     {
         "title": "Project 5",
         "description": "Reporting tool using data from various sources for tracking performance and actions for existing deals. Helps identify parts that we can include in a future deal along with evaluating how we might change Pricing business logic as the business evolves.",
-        "tech" : "Standalone application built on top of Java & Spring Boot using Angular 9 as Front-end. Deployed in Tanzu Application Services (TAS). Uses SQL Server as DB and also interacts with Teradata & Oracle DB."
+        "tech" : "Standalone application built on top of Java & Spring Boot using Angular 18 as Front-end. Deployed in Tanzu Application Services (TAS). Uses SQL Server as DB and also interacts with Teradata & Oracle DB."
     },
     {
         "title": "Project 4",
         "description": "Web-based, customer-specific pricing tool used to price customer requested part and consumption lists. Identifies additional discount that could be offered for different customer tiers and level of commitment. Connected to another tool and is the starting point for all Tailored Offerings. A complex pricing strategy is involved which considers a lot of factors and prices the parts accordingly.",
-        "tech": "Follows micro service architecture with multiple services running on Java Spring Boot hosted in Tanzu Application Services (TAS). Uses services provided by Cloud Foundry for Service Registry, Discovery and config server. Web Application interacts with all these microservices which is built using Spring Boot and Angular 8."
+        "tech": "Follows micro service architecture with multiple services running on Java Spring Boot hosted in Tanzu Application Services (TAS). Uses services provided by Cloud Foundry for Service Registry, Discovery and config server. Web Application interacts with all these microservices which is built using Spring Boot and Angular 18."
     },
     {
         "title": "Project 3",
